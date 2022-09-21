@@ -21,3 +21,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/spring-1.0/target/
+/.idea/
+/out/artifacts/spring_1_0_war_exploded/
