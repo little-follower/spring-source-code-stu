@@ -200,7 +200,6 @@ public class MyDispatcherServlet extends HttpServlet {
         String url = "/demo/query";
         String s = url.replaceAll("/", "");
         System.out.println(s);
-
         String servlet = "com.spring.mvcframework.v1.servlet.MyDispatcherServlet";
     }
 }
