@@ -28,6 +28,5 @@ public class DemoAction {
         }catch (Exception e) {
             e.printStackTrace();
         }
-
     }
 }

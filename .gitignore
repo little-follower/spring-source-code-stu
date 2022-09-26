@@ -24,3 +24,4 @@ hs_err_pid*
 /spring-1.0/target/
 /.idea/
 /out/artifacts/spring_1_0_war_exploded/
+/spring-core-zy/target/maven-status/maven-compiler-plugin/compile/default-compile/
